@@ -7,6 +7,7 @@ cascade_path = "./haarcascades/haarcascade_frontalface_alt.xml"
 
 omen_path = "./omen.jpeg"
 
+
 #画像読み込み
 image = cv2.imread(pic_path)
 omen_image = cv2.imread(omen_path)
